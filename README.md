@@ -196,7 +196,7 @@ This system is designed to break on purpose:
 
 ---
 
-## � Resume-Ready Bullet Points
+## Bullet Points
 - Designed and implemented a production-grade distributed performance benchmarking platform using Next.js, Java, Redis, Kafka, PostgreSQL, Prometheus, and Grafana.
 - Performed large-scale load, stress, and soak testing using Locust, identifying throughput ceilings and P99 latency bottlenecks.
 - Built reactive, non-blocking APIs with backpressure handling (Resilience4j) and circuit breakers to sustain high-QPS workloads.
